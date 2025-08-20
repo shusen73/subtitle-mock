@@ -1,0 +1,15 @@
+{
+  "subtitles": [
+    {
+      "id": 1,
+      "items": [
+        { "id": 101, "start": 0.5,  "end": 3.2,  "text": "Hello and welcome!", "explanation": "Greeting" },
+        { "id": 102, "start": 3.2,  "end": 6.8,  "text": "This is a demo subtitle.", "explanation": "Context line" },
+        { "id": 103, "start": 6.8,  "end": 10.4, "text": "We will sync with the video." },
+        { "id": 104, "start": 10.4, "end": 14.0, "text": "Click any line to seek." }
+      ],
+      "language": "en",
+      "source": "my-json-server"
+    }
+  ]
+}
